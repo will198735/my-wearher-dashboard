@@ -8,7 +8,10 @@ this weather dashboard  will run in the browser and feature dynamically updated 
 
 
 ## Installetion
+https://will198735.github.io/my-wearher-dashboard/
 
+
+https://github.com/will198735/my-wearher-dashboard/settings/pages
 
 ## Usege
 A user search for a city,  and is presented with current and future conditions for that city and that city is added to the search history.
